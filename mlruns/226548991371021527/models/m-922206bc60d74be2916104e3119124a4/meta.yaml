@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hackathonuser14/Desktop/mlflow_new/mlflow_dags_hub/mlruns/226548991371021527/models/m-922206bc60d74be2916104e3119124a4/artifacts
+creation_timestamp: 1750144856019
+experiment_id: '226548991371021527'
+last_updated_timestamp: 1750144860610
+model_id: m-922206bc60d74be2916104e3119124a4
+model_type: null
+name: model
+source_run_id: 905aca051b404704a5479bc8c512b6df
+status: 2
+status_message: null

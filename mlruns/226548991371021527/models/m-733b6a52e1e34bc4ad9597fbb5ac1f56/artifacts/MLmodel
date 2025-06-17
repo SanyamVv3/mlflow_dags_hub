@@ -1,0 +1,28 @@
+artifact_path: file:///c:/Users/hackathonuser14/Desktop/mlflow_new/mlflow_dags_hub/mlruns/226548991371021527/models/m-733b6a52e1e34bc4ad9597fbb5ac1f56/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.3
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 3.0.2
+is_signature_from_type_hint: false
+mlflow_version: 3.1.0
+model_id: m-733b6a52e1e34bc4ad9597fbb5ac1f56
+model_size_bytes: 706079
+model_uuid: m-733b6a52e1e34bc4ad9597fbb5ac1f56
+prompts: null
+run_id: fee38c0e3e3840229f4056dcfc6463ec
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 8]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-17 07:19:26.289277'

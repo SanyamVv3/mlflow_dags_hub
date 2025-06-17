@@ -1,0 +1,9 @@
+digest: 226c6014
+name: dataset
+profile: '{"features_shape": [20000, 8], "features_size": 160000, "features_nbytes":
+  1280000}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 8]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "hackathonuser14", "mlflow.source.name": "c:\\Users\\hackathonuser14\\Desktop\\mlflow_new\\mlflow_dags_hub\\venv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

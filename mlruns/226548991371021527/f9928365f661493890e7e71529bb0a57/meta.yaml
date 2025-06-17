@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hackathonuser14/Desktop/mlflow_new/mlflow_dags_hub/mlruns/226548991371021527/f9928365f661493890e7e71529bb0a57/artifacts
+end_time: 1750144699997
+entry_point_name: ''
+experiment_id: '226548991371021527'
+lifecycle_stage: active
+run_id: f9928365f661493890e7e71529bb0a57
+run_name: awesome-auk-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750144687993
+status: 4
+tags: []
+user_id: hackathonuser14

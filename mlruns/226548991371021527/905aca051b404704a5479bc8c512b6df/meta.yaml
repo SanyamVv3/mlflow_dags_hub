@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hackathonuser14/Desktop/mlflow_new/mlflow_dags_hub/mlruns/226548991371021527/905aca051b404704a5479bc8c512b6df/artifacts
+end_time: 1750144883454
+entry_point_name: ''
+experiment_id: '226548991371021527'
+lifecycle_stage: active
+run_id: 905aca051b404704a5479bc8c512b6df
+run_name: capricious-newt-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750144854781
+status: 3
+tags: []
+user_id: hackathonuser14

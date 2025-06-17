@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hackathonuser14/Desktop/mlflow_new/mlflow_dags_hub/mlruns/226548991371021527/86ca0d4f421a43929f12f86e4faf7c60/artifacts
+end_time: 1750144854766
+entry_point_name: ''
+experiment_id: '226548991371021527'
+lifecycle_stage: active
+run_id: 86ca0d4f421a43929f12f86e4faf7c60
+run_name: respected-boar-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750144816910
+status: 3
+tags: []
+user_id: hackathonuser14

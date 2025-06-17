@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hackathonuser14/Desktop/mlflow_new/mlflow_dags_hub/mlruns/226548991371021527/00bdd0675d974ef9915b8c6f8b74ea24/artifacts
+end_time: 1750144919577
+entry_point_name: ''
+experiment_id: '226548991371021527'
+lifecycle_stage: active
+run_id: 00bdd0675d974ef9915b8c6f8b74ea24
+run_name: classy-sponge-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750144883471
+status: 3
+tags: []
+user_id: hackathonuser14
